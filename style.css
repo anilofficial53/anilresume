@@ -7,6 +7,10 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
   }
+  #footer{
+    color: red;
+    
+  }
   
   a:hover, a:active {
     background-color: green;
